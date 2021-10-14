@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <owner>
+            Fawwaz
+        </owner>
+        <title>
+            Matematika
+        </title>
+    </head>
+    <body>
+     <outline text="Perkalian suku dua dengan suku dua"> 
+         <outline text="Dengan hukum distributif"> 
+             <outline text="(x+2)(x+3)=x(x+3)+2(x+3)
+=x^2+3x+2x+6 
+=x^2+5x+6 "/>
+             <outline text="(x-3)(x+4)=x(x+4)-3(x+4)  
+= x^2+4x-3x-12
+= x^2+x-12"/>
+             <outline text="(3p+2)(3p-2)=3p(3p-2)+2(3p-2)"/>
+             <outline text="=9p^2-6p+6p-4
+=9p^2+0-4
+9p^2-4"/>
+          </outline>
+         <outline text="Dengan skema"> 
+             <outline text="(x+2)(x+3)=x^2+3x+2x+6  
+=x^2+5x+6"/>
+             <outline text="(x-3)(x+4)=x^2+4x-3x-12
+=x^2+x-12 "/>
+             <outline text="(2x^2-10x)(x+3)=2x^3+6x^2-10x^2-30x
+2x^3-4x^2-30x"/>
+          </outline>
+      </outline>
+     <outline text=""/>
+ </body>
+</opml>
