@@ -1,1 +1,1 @@
-# Ringkasan Harian
+# Rangkuman Harian
